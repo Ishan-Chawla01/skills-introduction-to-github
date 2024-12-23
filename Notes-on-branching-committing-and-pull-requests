@@ -1,0 +1,9 @@
+Step1: Create a new repository
+You can create a new repository by clicking on new button in the github dashboard section.
+Step2: Branch from a repository
+If you don't want a commit to directly go into your code and ruin everyone's work accidentally, you can make a new branch of the main branch by clicking on code tab, going to main
+branch, drop down of main branch and show all branches and create a new branch. 
+Step3: Pull request from a repository
+In your changed file, make a change and then click commit changes, then go to pull request tab and compare changes by comparing main to <branch name> 
+Step4: Merging
+If everything is smooth, click on merge, which will be visible under the same tab and voila, your changes will be committed to main and you'll be done, now delete the branch
